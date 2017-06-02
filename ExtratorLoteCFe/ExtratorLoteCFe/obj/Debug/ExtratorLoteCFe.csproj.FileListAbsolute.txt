@@ -1,0 +1,9 @@
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\bin\Debug\ExtratorLoteCFe.exe
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\bin\Debug\ExtratorLoteCFe.pdb
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\obj\Debug\ExtratorLoteCFe.csprojResolveAssemblyReference.cache
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\obj\Debug\ExtratorLoteCFe.FrmAbout.resources
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\obj\Debug\ExtratorLoteCFe.FrmMain.resources
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\obj\Debug\ExtratorLoteCFe.Properties.Resources.resources
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\obj\Debug\ExtratorLoteCFe.csproj.GenerateResource.Cache
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\obj\Debug\ExtratorLoteCFe.exe
+D:\~home\developement\vs\ExtratorLoteCFe\ExtratorLoteCFe\obj\Debug\ExtratorLoteCFe.pdb
